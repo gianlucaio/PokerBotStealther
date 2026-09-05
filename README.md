@@ -2,7 +2,7 @@
 
 Libreria anti-ban per mouse e tastiera. Interviene prima che il bot agisca, rendendo i movimenti indistinguibili da quelli umani.
 
-Fa parte dell'ecosistema poker insieme a [PokerBotAgent](../PokerBotAgent/), [PokerTableScope](../PokerTableScope/), [PokerProfileCreator](../PokerProfileCreator/), [PokerMttVirtual](../PokerMttVirtual/) e [PokerBotNexus-Suite](../PokerBotNexus-Suite/) (web app unificata).
+Fa parte dell'ecosistema poker insieme a [PokerBotAgent](../PokerBotAgent/), [PokerTableScope](../PokerTableScope/), [PokerProfileCreator](../PokerProfileCreator/), [PokerMttVirtual](../PokerMttVirtual/)
 
 ## Indice
 
